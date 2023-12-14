@@ -54,9 +54,7 @@ class Cliente:
 
 # Crear instancia de Cliente
 cliente1 = Cliente("Juan", 25, "Calle Principal 123", "juan@example.com")
-
 # Realizar una compra
 cliente1.comprar("Camiseta")
-
 # Mostrar información del cliente
 cliente1.mostrar_informacion()
